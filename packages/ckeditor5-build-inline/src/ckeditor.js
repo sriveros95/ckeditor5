@@ -42,7 +42,6 @@ export default class InlineEditor extends InlineEditorBase { }
 InlineEditor.builtinPlugins = [
 	Alignment,
 	Essentials,
-	UploadAdapter,
 	Autoformat,
 	Bold,
 	Italic,
