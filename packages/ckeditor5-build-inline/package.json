@@ -1,6 +1,6 @@
 {
   "name": "@42ndstudio/ckeditor5-build-inline-custom",
-  "version": "21.0.01",
+  "version": "21.0.2",
   "description": "The inline editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
